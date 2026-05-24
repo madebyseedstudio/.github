@@ -1,2 +1,1 @@
-# .github
-Made by SEED Studio
+# Made by SEED Studio
