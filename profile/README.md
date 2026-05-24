@@ -7,11 +7,13 @@
 * 🌱 [madebyseed.studio](https://madebyseed.studio)
 
 
+
 ## 👋 Our Team
 
-**_Visit to the personal websites of our founding team_**
+**_Visit the personal websites of our founding team_**
 * 👩‍💻 Anne-Sofie Belling (Founder / Designer / Researcher) [belling.design](https://belling.design)
 * 👩‍💻 Nikki Pantony (Founder / Designer / Developer) [nikkipantony.dev](https://nikkipantony.dev)
+
 
 
 ## ⚒️ Our Projects
