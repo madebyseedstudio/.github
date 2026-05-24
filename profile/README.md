@@ -1,12 +1,30 @@
-# Made by SEED Studio 🌱
+# Made by SEED Studio
 
-<!--
 
-**Here are some ideas to get you started:**
+## 🌐 About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**_Learn more about us on our website_**
+* 🌱 [madebyseed.studio](https://madebyseed.studio)
+
+
+## 👋 Our Team
+
+**_Visit to the personal websites of our founding team_**
+* 👩‍💻 Anne-Sofie Belling (Founder / Designer / Researcher) [belling.design](https://belling.design)
+* 👩‍💻 Nikki Pantony (Founder / Designer / Developer) [nikkipantony.dev](https://nikkipantony.dev)
+
+
+## ⚒️ Our Projects
+
+**_Links to the main projects we are currently focusing on_**
+* 💖 Pyt App: Your Personal Organization App.
+  * [github.com/madebyseedstudio/pyt](https://github.com/madebyseedstudio/pyt)
+  * [getpyt.app](https://getpyt.app)
+  
+* 🖨️ Remote Print: Printing Made Easy.
+  * [github.com/madebyseedstudio/remoteprint](https://github.com/madebyseedstudio/remoteprint)
+  *  [remoteprint.app](https://remoteprint.app)
+    
+* 😎 Really Simple Website: The easy way to get your simple website online.
+  * [github.com/madebyseedstudio/reallysimplewebsite](https://github.com/madebyseedstudio/reallysimplewebsite)
+  * [reallysimple.website](https://reallysimple.website)
